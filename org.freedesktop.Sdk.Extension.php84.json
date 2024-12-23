@@ -188,8 +188,8 @@
             ],
             "post-install": [
                 "install -Dm755 modules/redis.so $(php -r 'echo ini_get(\"extension_dir\");')/redis.so",
-                "install -Dm644 redis.ini ${PHP_INI_DIR}/conf.d/05-xdebug.ini",
-                "install -Dm644 LICENSE ${FLATPAK_DEST}/share/licenses/xdebug/LICENSE"
+                "install -Dm644 redis.ini ${PHP_INI_DIR}/conf.d/05-redis.ini",
+                "install -Dm644 LICENSE ${FLATPAK_DEST}/share/licenses/redis/LICENSE"
             ],
             "cleanup": [
                 "/include",
