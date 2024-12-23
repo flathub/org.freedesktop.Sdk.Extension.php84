@@ -181,6 +181,46 @@
             ]
         },
         {
+            "name": "redis",
+            "buildsystem": "autotools",
+            "config-opts": [
+                "--with-php-config=/usr/lib/sdk/php84/bin/php-config"
+            ],
+            "post-install": [
+                "install -Dm755 modules/redis.so $(php -r 'echo ini_get(\"extension_dir\");')/redis.so",
+                "install -Dm644 redis.ini ${PHP_INI_DIR}/conf.d/05-redis.ini",
+                "install -Dm644 LICENSE ${FLATPAK_DEST}/share/licenses/redis/LICENSE"
+            ],
+            "cleanup": [
+                "/include",
+                "*.a",
+                "*.la"
+            ],
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://github.com/phpredis/phpredis/archive/6.1.0.tar.gz",
+                    "sha256": "57135db32a0ccb1659f56c75feb26c10ea94fb3d2471edd047d94a9800f959b0",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 18358,
+                        "stable-only": true,
+                        "url-template": "https://github.com/phpredis/phpredis/archive/$version.tar.gz"
+                    }
+                },
+                {
+                    "type": "file",
+                    "path": "files/redis/redis.ini"
+                },
+                {
+                    "type": "shell",
+                    "commands": [
+                        "${FLATPAK_DEST}/bin/phpize"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "composer",
             "buildsystem": "simple",
             "build-commands": [
