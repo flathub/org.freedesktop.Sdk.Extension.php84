@@ -85,8 +85,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.php.net/distributions/php-8.4.5.tar.xz",
-                    "sha256": "0d3270bbce4d9ec617befce52458b763fd461d475f1fe2ed878bb8573faed327",
+                    "url": "https://www.php.net/distributions/php-8.4.6.tar.xz",
+                    "sha256": "089b08a5efef02313483325f3bacd8c4fe311cf1e1e56749d5cc7d059e225631",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://www.php.net/releases/index.php?json&version=8.4&max=1",
@@ -209,8 +209,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://github.com/phar-io/phive/releases/download/0.15.3/phive-0.15.3.phar",
-                    "sha256": "3f4ab8130e83bb62c2a51359e7004df95b60ad07bbd319f4b39d35a48a051e27",
+                    "url": "https://github.com/phar-io/phive/releases/download/0.16.0/phive-0.16.0.phar",
+                    "sha256": "1525f25afec4bcdc0aa8db7bb4b0063851332e916698daf90c747461642a42ed",
                     "dest-filename": "phive.phar",
                     "x-checker-data": {
                         "type": "anitya",
