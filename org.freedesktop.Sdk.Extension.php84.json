@@ -159,8 +159,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xdebug.org/files/xdebug-3.4.2.tgz",
-                    "sha256": "a043888c86e1526ac5ddb220d37ed3a1809e79a16bbb059b9c7e2d2f83b43cc1",
+                    "url": "https://xdebug.org/files/xdebug-3.4.3.tgz",
+                    "sha256": "a942e420186e9156ee1b09b6ced0362474f405a060f2ca8d2575035ac83f578b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13302,
