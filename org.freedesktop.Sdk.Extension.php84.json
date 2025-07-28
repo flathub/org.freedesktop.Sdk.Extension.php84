@@ -119,8 +119,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.24.tar.gz",
-                    "sha256": "8b16f76dba51ec14263212ee1f618b06e132246a98ce3ed6961104585b773c94",
+                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.25.tar.gz",
+                    "sha256": "f0355a440cc687a241da0feea694bb349d513fc726e6a901e6a0a51e617ff394",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 11010,
