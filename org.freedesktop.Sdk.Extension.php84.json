@@ -85,8 +85,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.php.net/distributions/php-8.4.12.tar.xz",
-                    "sha256": "c1b7978cbb5054eed6c749bde4444afc16a3f2268101fb70a7d5d9b1083b12ad",
+                    "url": "https://www.php.net/distributions/php-8.4.13.tar.xz",
+                    "sha256": "b4f27adf30bcf262eacf93c78250dd811980f20f3b90d79a3dc11248681842df",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://www.php.net/releases/index.php?json&version=8.4&max=1",
@@ -189,8 +189,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://getcomposer.org/download/2.8.11/composer.phar",
-                    "sha256": "257a969e9a9d27e0e45cfe954835c17a76033ba84a388e0f472db83eded65a8b",
+                    "url": "https://getcomposer.org/download/2.8.12/composer.phar",
+                    "sha256": "f446ea719708bb85fcbf4ef18def5d0515f1f9b4d703f6d820c9c1656e10a2f2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 9710,
