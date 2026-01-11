@@ -85,8 +85,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.php.net/distributions/php-8.4.14.tar.xz",
-                    "sha256": "bac90ee7cf738e814c89b6b27d4d2c4b70e50942a420837e1a22f5fd5f9867a3",
+                    "url": "https://www.php.net/distributions/php-8.4.16.tar.xz",
+                    "sha256": "f66f8f48db34e9e29f7bfd6901178e9cf4a1b163e6e497716dfcb8f88bcfae30",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://www.php.net/releases/index.php?json&version=8.4&max=1",
@@ -119,8 +119,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.27.tar.gz",
-                    "sha256": "c4693ad108f80f4d181ece0d4b583c8cd04c9e34d8046c8d03aeb5eed5809316",
+                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.28.tar.gz",
+                    "sha256": "0e60ba9d0fa4021c57a70c071f3d8f71de236275d084e560d5959fec4edd8c32",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 11010,
@@ -159,8 +159,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xdebug.org/files/xdebug-3.4.7.tgz",
-                    "sha256": "7592923501e3fdb9741ad35b90e08fc6b3c5dd31eadc4c83b7b3c9dda0627b24",
+                    "url": "https://xdebug.org/files/xdebug-3.5.0.tgz",
+                    "sha256": "f6daf55a5c7adadb07dd2af25ff78b1cc9b1c58d6cc442a463eba015b678aabf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13302,
@@ -189,8 +189,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://getcomposer.org/download/2.9.1/composer.phar",
-                    "sha256": "1f9c85291820f8496ca95cd49028002db328e7fa99b4f548e8afa7f6774540f7",
+                    "url": "https://getcomposer.org/download/2.9.3/composer.phar",
+                    "sha256": "3b3f9503a2d46590170e45edd29734197e797cea545b396d0b2823cac8ef4643",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 9710,
