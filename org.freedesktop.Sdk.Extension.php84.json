@@ -1,9 +1,9 @@
 {
     "id": "org.freedesktop.Sdk.Extension.php84",
-    "branch": "24.08",
+    "branch": "25.08",
     "runtime": "org.freedesktop.Sdk",
     "sdk": "org.freedesktop.Sdk",
-    "runtime-version": "24.08",
+    "runtime-version": "25.08",
     "sdk-extensions": [],
     "build-extension": true,
     "separate-locales": false,
