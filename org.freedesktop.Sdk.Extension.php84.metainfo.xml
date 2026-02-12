@@ -13,8 +13,11 @@
     </p>
   </description>
   <releases>
-    <release version="8.4.17" date="2026-01-13">
+    <release version="8.4.18" date="2026-02-10">
       <description></description>
+    </release>
+    <release version="8.4.17" date="2026-01-13">
+      <description/>
     </release>
     <release version="8.4.16" date="2025-12-16">
       <description/>
