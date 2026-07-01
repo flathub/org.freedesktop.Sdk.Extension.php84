@@ -85,8 +85,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.php.net/distributions/php-8.4.20.tar.xz",
-                    "sha256": "e454c6f7c89a42f41ebb06dc5c3578e8c8b5f1a3f0da6675665affab04e221f7",
+                    "url": "https://www.php.net/distributions/php-8.4.22.tar.xz",
+                    "sha256": "696c0f6ad92e94c59059c1eb6e300842b8d050934226efcdf00f2a413cb083cf",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://www.php.net/releases/index.php?json&version=8.4&max=1",
@@ -159,8 +159,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xdebug.org/files/xdebug-3.5.1.tgz",
-                    "sha256": "0f26849a5edf3d9120edc100219854599d54f923a8a4d1cb4fe4403520e49678",
+                    "url": "https://xdebug.org/files/xdebug-3.5.3.tgz",
+                    "sha256": "f073de91bea046106abf4d6071c963ea71e58571df6ce58948ceca89d121cb2d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13302,
@@ -189,8 +189,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://getcomposer.org/download/2.9.5/composer.phar",
-                    "sha256": "c86ce603fe836bf0861a38c93ac566c8f1e69ac44b2445d9b7a6a17ea2e9972a",
+                    "url": "https://getcomposer.org/download/2.10.2/composer.phar",
+                    "sha256": "5ee7125f8a30a34d246cefdc0bc85b8a783b28f2aec968994118512350d28027",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 9710,
