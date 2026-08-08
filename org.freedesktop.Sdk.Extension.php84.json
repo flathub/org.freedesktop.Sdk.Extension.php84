@@ -85,8 +85,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.php.net/distributions/php-8.4.20.tar.xz",
-                    "sha256": "e454c6f7c89a42f41ebb06dc5c3578e8c8b5f1a3f0da6675665affab04e221f7",
+                    "url": "https://www.php.net/distributions/php-8.4.24.tar.xz",
+                    "sha256": "e127be09a8506f4327c5cfa78a614b00d210714484ec215ce0011b4a03c00731",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://www.php.net/releases/index.php?json&version=8.4&max=1",
@@ -159,8 +159,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xdebug.org/files/xdebug-3.5.1.tgz",
-                    "sha256": "0f26849a5edf3d9120edc100219854599d54f923a8a4d1cb4fe4403520e49678",
+                    "url": "https://xdebug.org/files/xdebug-3.5.3.tgz",
+                    "sha256": "f073de91bea046106abf4d6071c963ea71e58571df6ce58948ceca89d121cb2d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13302,
